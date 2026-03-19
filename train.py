@@ -88,7 +88,7 @@ def experiment_mnist():
 if __name__ == "__main__":
 
     #Moons Experiment
-    # experiment_learning_rate(X, y)
+    experiment_learning_rate(X, y)
 
     #MNIST Dataset
     experiment_mnist()
